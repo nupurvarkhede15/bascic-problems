@@ -1,0 +1,2 @@
+# bascic-problems
+python numpy
